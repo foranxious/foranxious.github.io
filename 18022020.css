@@ -1,0 +1,35 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: black;
+    margin: 0PX;
+    padding: 0PX;
+}
+#banner
+{
+    font-style: italic;
+    font-size: 50px;
+    background-color: red;
+    color:white;
+    height: 50PX;
+}
+#menu
+{
+    border-style: none;
+    padding: 20px;
+    width: 200px;
+    background-color: gray;
+    float: left;
+    font-size: 15px;
+    text-decoration:;
+}
+#icerik
+{
+    border-style: none;
+    font-size: 20px;
+    padding: 20px;
+    background-color: gray;
+    height: 248px;
+    float: initial;
+}
